@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.card {
+  flex: 1, 0, 30%;
+  width: 200px;
+  height: 200px;
+}
